@@ -1,0 +1,41 @@
+﻿Mathematical Metaphors Abound in Art and Fiction By DAN ROCKMORE
+
+As a mathematician, I lately seem to find myself discussing the movies a lot. Copies of the Oscar-winning "Good Will Hunting" are now lining the shelves in the video store; Darren Aronofsky's "Pi" about a reclusive mathematician obsessed with patterns is becoming a cult classic. Friends, acquaintances, students all want to talk to me about these movies because they are "all about math." Are they?
+
+Let's take "Good Will Hunting", which I liked. Moviegoers may be familiar with the story of Will, a young man of college age, who lives alone in South Boston and works as a janitor at Massachusetts Institute of Technology. He is a genius with a particular talent for mathematics. While cleaning the halls one day he sees a problem that has been left as a challenge on a blackboard and solves it. His novel solution lands him a place at M.I.T. as an aide to an arrogant former young genius confronting the diminution of his mathematical prowess. Along the way Will (Matt Damon) meets a beautiful woman (Minnie Driver) from the other side of the tracks (Harvard) and a therapist (Robin Williams) who teach him about love, trust and life.
+
+So, how is this about math? Well, we hear that the problem derives from graph theory and is solved using something called "Fourier systems" (more properly called Fourier analysis), but this is of course peripheral.
+
+The main messages of the movie are old and trite: You are either someone who can do math or you are not; mathematics is impossible to explain to others, even other mathematicians, and to be a mathematician and to think about mathematics is to separate yourself from most of society. After all, what could be more at odds with Will's working-class, street-wise background than a talent for mathematics?
+
+These are some of the worst stereotypes of mathematics and mathematicians, propagated within the discipline as well as without. The elegance of the subject and its relevance to science are not even suggested. We see it only as an arcane competition among arrogant men. To the extent that "Good Will Hunting" plays up the clicheÀs while neglecting the core of mathematics, I'd have to say that it is hardly about mathematics at all.
+
+The pervasiveness of mathematics is subtle. Life and experience mainly present us with the apparent manifestations of mathematical laws underpinning reality, not the equations that describe it.
+
+Similarly, subtlety will be at the heart of any truthful rendering of a mathematical idea.
+
+Identifying these connections need not lead to madness (as it does for the hero of "Pi"), but can bring a deeper appreciation of science and art.
+
+To this end, I would like to juxtapose three other pieces of current artwork that are (to my eye) deeply mathematically inspired. Each of these examples, from the movies, visual arts and literature, acts (intentionally, or unintentionally) as a powerful metaphor for complex and important mathematical ideas.
+
+Peter Howitt's movie "Sliding Doors", released last spring and starring Gwyneth Paltrow, is a wonderful illustration of the way the long-term behavior of a system can be highly sensitive to its initial conditions, a notion that is at the heart of chaos theory. The action begins when the heroine leaves work early one day. As she rushes down the steps to the subway, she swerves to avoid a boy making his way up the stairs. The movie follows the two paths her life could take, depending on whether she just misses the train, or just makes it.
+
+These two possibilities are handled in a beautiful, and in some ways a very mathematically precise, way. We see the two possible trajectories of her life intersect many of the same people and events, each a perturbation of the other, until ultimately they reach very different final states. This is a clever and intellectually honest rendering of the much-publicized "butterfly effect" of chaos theory, usually explained as the way small changes in initial weather conditions, such as the beating of a butterfly's wings over China, can ultimately mean the difference between, say, a pleasant day in Hanover, N.H., and a stormy one.
+
+What this simple explanation omits is precisely what the movie shows so well, how these different outcomes evolve as accumulations of small differences along the way. It is a beautiful mathematical parable.
+
+The painter Chuck Close's retrospective, recently at the Museum of Modern Art, gives expression to the deep ideas that underlie much of the mathematics of image compression, used in computer graphics and for sending pictures and movies over the Internet. Close is best known for his large portraits, created by taking a photograph, drawing a grid over it and interpreting the original photo square by square onto canvas.
+
+Over the years, the repertoire of shapes, colors and even media in each of Close's tiny squares has grown, giving rise to a tremendous range of expression and feeling. Each variation says something dramatic and insightful about our natural abilities to perceive and construct a whole from parts.
+
+Investigations just like this go on in the engineering and mathematics of image processing, where scientists are trying to understand the "best" ways of representing many kinds of images, ranging from mammograms to family portraits, as combinations of smaller more fundamental elements of shape and color. In particular, the popular Joint Photographic Experts Group (JPEG) format, known to almost anyone who has digitized a picture, proceeds much like an automated Close: transforming an image block by block, preserving only the most important (perceptible) aspects.
+
+Both approaches, artistic and mathematical, seek to extract the essence of the whole, to provide honest, compact representations of the original.
+
+Finally, Carol Shields's novel "Larry's Party" (Viking, 1997) is a portrait of the quietly twisting and turning life of Larry Weller, a landscape architect who specializes in botanical mazes and labyrinths.
+
+As Larry well appreciates, the beauty and appeal of these constructions are rooted in some deep emotional connection that we all make with symmetry and geometry of the mazes of our lives: obstacles that direct us to opportunities, entrances balanced by exits, the winding paths that we navigate through an emotional-physical continuum to arrive at what in retrospect looks like a necessary conclusion.
+
+Geometry seeks to understand and describe the relation of objects in space; symmetry, in the form of abstract algebra, has always been one of its most important tools. "Larry's Party" shows how the symmetries of life can illuminate our relationships to others, the geometry of experience.
+
+Perhaps this is just a mathematician's viewing the world with a mathematician's eye. I'd like to think that it is a bit more; that the acclaim received by each of these works shows that mathematics is not just a collection of complicated problems studied and understood by a few, but that it is a subject that on a very profound and intuitive level speaks to all of us. So, I believe that some of the best art really is about mathematics, but we may have to dig a little to see it. After all, mathematics, like beauty, is more than skin-deep.

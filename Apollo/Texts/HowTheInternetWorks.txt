@@ -1,0 +1,388 @@
+﻿How The Internet Works
+
+It is impossible to deny the influence of the Internet. In the 1990's it quickly changed
+from an exciting technology few understood to something so prevalent most can't
+imagine living without it. The World Wide Web is a powerful thread that connects the
+entire world, one that allows us to share information like never before.
+
+The benefits of accessing so much information are too many to list, and while some
+problems are also becoming apparent, the web's place in our daily lives is
+undeniable. We can now access the Internet from our home computers, office,
+laptops and our phones. But even with this close intimacy many people still aren't
+entirely sure what the Internet is and how it really works. This guide explores these
+questions, starting with a bit of history. 
+
+Like most revolutionary ideas, the Internet
+started with a few people who dared to dream the
+impossible. The year was 1962 and Leonard
+Kleinrock (pictured) at MIT had just published the
+first paper on packet switching theory, which was
+the technology that allows information to be
+transferred as packets of information. At the same
+time, a man named J.C.R. Licklider of MIT wrote a
+series of memos describing a "Galactic Network,"
+which would allow people to access information
+from anywhere.
+
+The story could have ended there. But, as it
+happens, Licklider was the first head of the
+computer research program at DARPA, the research and development office for
+the U.S. Department of Defense, and convinced his successors that researching
+networking processes was an important undertaking
+
+In 1965, MIT researcher Lawrence G. Roberts, along with Thomas Merrill, connected
+the TX-2 computer in Massachusetts to the Q-32 in California with a low speed
+telephone line. This project, sponsored by ARPA, intended to study a "cooperative
+network of time-sharing computers". That was the first time a long distance
+computer network was created, and it helped show researchers that it could work—
+although it also showed them how inadequate phone lines were for the transmission
+of information. In 1966, using the knowledge he had acquired from his previous
+experiment, Roberts put together plans for the creation of the "ARPANET", which
+would eventually become the modern "Internet".The development of the ARPANET was not without major glitches. Charley Kline at
+UCLA sent the first packet ever using the network as he tried to connect to Stanford
+Research Institute on Oct 29, 1969. The first word he tried was LOGIN, but the system
+crashed when he reached the letter G.
+
+By 1972 Ray Tomlinson created email for the ARPANET and started using the symbol
+"@" for email addresses.
+
+In 1973, a protocol called FTP (File Transfer Protocol) was created to allow files to be
+transferred to hosts as sites (more on that below). That is the protocol used today to
+upload files to servers and websites.
+
+By 1981, Listserv software made the exchange of information easier, and by the
+1980's, the first private ISP (Internet Service Provider) appeared.
+The Internet started to become broadly used in the 1990's. The first search engine—
+Archie, from McGill University in Montreal—was created. This was followed in 1991 by
+WAIS and Gopher.
+
+Lycos was created in 1993 and Yahoo was founded in 1994, but the major change in
+how people searched the web happened in 1998, with the launch of a clean and
+efficient little search engine called Google.
+
+Although Google cannot be credited with the development of the web since the
+late 1990's, it serves as a major turning point in its popular acceptance. Within a
+short time, "to Google" would become a verb synonym to searching the web.
+
+During the 90's major investments had been made in the field of technology, and
+investors and companies saw the web as the new portal for their investments. So
+many of those investments went badly that 2000 is known as the year the dot-com
+bubble burst, with the majority of the high investment dot-coms going down during
+2001 and 2002.
+
+The irony of the dot-com bubble burst is that the Internet would, in the years after
+the burst, prove itself immensely profitable and a major focus of investments once
+again.
+
+It matured to become such a part of people's lives that it had begun to threaten
+the existence of companies that refused to create a strong presence online.
+
+From the users' end, computers are a direct link to the Internet. A computer with
+Internet access is necessary for retrieving files served by websites. Most computers
+are adequate for that task, but naturally as the web grows more and more complex
+so does the computing power needed to take advantage of it. 
+
+There are currently a few different types of cables that can be used to connect a
+computer to the Internet. The most common ones are phone lines (for DSL and
+modem users) and Broadband RJ-45 (ethernet) cables. The phone line can connect
+users to a modem connection directly, or be connected to a router for DSL users,
+and then to an RJ-45 cable. Broadband cable and T1 users don't use a phone line,
+but use HFC and RFoG networks instead.Internet service providers are the companies that you pay to get Internet delivered
+to your house or workplace, such as Time Warner Cable, Comcast or Verizon DSL.
+They are the links between you and the large network we call the Internet, so by
+paying a fee they can give you access to their infrastructure and connect you to
+other computers. What you are really paying for is for the usage of their hardware:
+their cables, computers, routers, modems, the workers who maintain them and the
+real estate that is required to hold that hardware. 
+
+The Internet itself and the information stored in it is, for the most part, free; without an
+ISP, however, you would not have access to it.
+
+The information you see online needs to be stored by computers called hosts, or
+servers, which are constantly sending the information to the World Wide Web. Most
+major web hosting companies have huge buildings with hundreds or thousands of
+servers to store the websites they host. When you type a website address on your
+browser, they receive the request and send out the information that appears on
+your browser.
+
+You can turn your own computer into a server, but it would probably serve the
+pages slowly if many people are trying to access the site at once.
+
+Websites, computers on a network and hosts are identified by a series of numbers
+called IP addresses. Even your computer has an IP address; you can find it by visiting
+sites such as http://whatismyipaddress.com/
+
+Websites have public IP addresses, which are their identifiers online. For example, we
+all know that to reach Google, you can type Google.com on the address bar.
+Google's real IP is 66.102.7.99, so if you type that on the address bar, you will also
+find Google.
+
+This is how it works:
+Let's say your address is 125 Happy Street, but you decide to put a sign on your door
+that says "Bob's House", which covers the street number. You can then tell your
+friends to look for "Bob's House", which would be easier for them to remember, but
+your real address still is 125 Happy Street. In this analogy, then, "Bob's house" is your
+Domain Name and 125 Happy Street is your IP number.
+
+The domain name is basically the address of your website, a nickname for its IP
+address. Domains can be assigned to IPs by a Domain Name Registry headed by
+the Internet Assigned Numbers Authority.
+
+Basically, you can go to a registrar, such as GoDaddy.com or NetworkSolutions.com,
+purchase a domain and point it to where your site is hosted, so that when people
+type in your web address, they are taken to your website.
+Domains are divided into levels from right to left.
+
+URLs are shortcuts to a particular part of a Domain Name. Although sometimes
+people will use the two names interchangeably, there is a main difference. The
+Domain Name includes all the URLs within that domain. The URL points to a particular
+location.
+
+The confusion exists because most people will say, what is the URL for the site and
+they are given the simplest URL form, where the home of the site is (beholders.org),
+which also happens to be the Domain Address of the site.
+
+The URL usually includes much more information though, such as the specific page
+address, folder name, and protocol language.
+
+Protocols are different rules and languages that are used to exchange information
+or data. Below are some examples of the most used web protocols.HTML (HyperText Language Markup) was developed around 1991 and originally had
+20 tags. HTML has, almost since the beginning of websites, been one of the main
+languages used to communicate information, particularly for the creation of
+websites. HTML is considered a static language, because for the most part, what is
+written on the page is displayed on the browser, with very little interactivity between
+the user and that information.
+
+Most sites in the world make use of at least some html to display their information,
+although many larger sites being created today are connected to some form of
+database and use other languages which are considered more "dynamic" than
+HTML is. You can view the code on most webpages by using the view source option
+in your browser. Most of what you will see is HTML, since dynamic sites hide their real
+code when displayed that way for security reasons.Database driven sites are called "dynamic" sites because, unlike HTML, they don't
+store the information that will appear on the pages on the code itself. The code of
+dynamic sites is usually a portal to a database. They are what we call "queries".
+What that means is that they are requests, or questions, that can be answered by a
+database, which is where the real data is displayed. Dynamic sites can also write to
+a database, and that conversation is what the dynamic sites display on the pages.
+
+So for example, let's say that a dynamic site has a form to create a user for that site.
+You type in your information and click "send" or "join", or a button of that sort. The
+form will send that information to a database, and tell it to store it on a particular
+part of the database with tags for your name, address, password, etc.
+
+Then let's say you return to that site and try to log in. When you click login, the page
+will send a request to the database that asks if that person exists in the database.
+The database will search for it and if it finds that information if will reply that is does
+and give you access to your information on the site. If it doesn't find you, it will tell
+the page that there was an error and it will probably display a message instead,
+such as: "User not found".
+
+XML, or eXtensible Markup Language, had its beginnings in 1998 with XML 1.0. XML is
+a markup language that is mostly used to structure documents and transfer data
+between applications. It is also a language that can be used very effectively for
+transfer of information between databases because it is so configurable.
+
+Macromedia developed Flash in 1996 as a tool for the development of visually
+dynamic websites and multimedia content. It filled a gap left by HTML, which was
+quite static until the recent development of HTML5. With Flash, people can create
+sites with moving elements, music and action script which only require one plugin
+download to be viewed. It was widely adopted and by 2009 it had over 100 million
+users. Its plugin can be found on most computers with Internet access.
+
+Java is a programming language released by Sun Microsystems in 1995. It is a
+platform that has been used for many web and non-web applications, such as
+games and applications. Much like Flash, it requires software to be downloaded to
+your computer in the form of a plugin.
+
+Ajax stands for Asynchronous Javascript And XML, and is a reasonably recent
+technology in its current form (although the core languages Ajax evolved from have
+been around for a while.) Ajax was coined in 2005 by Jesse James Garrett.
+
+What Ajax does is basically load information on a page without the need to click on
+links and reload pages like HTML does. This helps make web pages more interactive,
+and feel less like a series of documents. Due to this, AJAX is used by many ecommerce
+sites or resource sites; it's a way of displaying extra images or text without
+the user needing to browse to different pages.
+
+No one organization controls the Internet; instead, a variety of international
+organizations work to make it what it is. Let's take a brief look at a few of these
+organizations. 
+
+ICANN stands for Internet Corporation for Assigned Names and Numbers and as the
+name implies, it is the main organization responsible for legislating and regulating the
+parts of the web that have to do with domains and their connection to IP addresses.
+
+IGF
+The Internet Governance Forum was established in 2006 as a forum that runs under
+the United Nations. It is a venue for discussions about the direction of the Internet on
+a global level.
+
+W3C
+The World Wide Web Consortium is responsible for keeping standards in web protocol
+development such as HTML and XML. Basically they specify the standards that
+browsers use when supporting particular languages.
+
+IANA
+The Internet Assigned Numbers Authority is one of the oldest Internet regulatory
+organizations, having started its activities in the 1970s. It is responsible for
+coordinating IPs and registries and regulates how they work together.
+
+The Internet has hugely affected print media. The possibility of having an online
+magazine or newspaper that doesn't require publishers to print and transport hard
+copies has made it easier for a lot of small publishers to create a presence online.
+
+It has also made it necessary for major companies to have a website, since the
+public has come to expect news to be served immediately, instead of the next day
+or even weeks that is required for printed materials. It has also allowed individuals to
+start their very own news sites and for blogs to fulfil part of the role that was
+previously controlled solely by the printed media. Magazine and newspaper sales
+are down, although their website traffic is going up. The launch of a new generation
+of e-readers, such as the Kindle and the iPad are bound to impact printed materials
+even more. Could we be watching the end of paper magazines?
+
+Multimedia is one of the largest sectors of the Internet today. It encompasses
+pictures, sound, video, animation and other interactive content. In its infancy the
+Internet only allowed for sparse use of multimedia, due to its speed restriction and
+the capacity of the machines to interact
+with the content. Downloading even highly
+compressed pictures (like the computer on
+the left) could take minutes, so small,
+pixilated images were the norm. The idea of
+music and video seemed like a distant
+dream. Bad Gif animations were the most
+exciting things you would see on a site in
+those days.
+
+With the predominance of high speed
+Internet the use of multimedia in websites
+has become so common that one would
+find it odd to see a site that didn't at least have pictures and graphic elements.
+
+Sites devoted entirely to multimedia, such as YouTube and Vimeo, are incredibly
+popular; music downloads have revolutionized the industry.
+
+The movie industry has also been deeply affected by sites such as Netflix, which
+make it possible for people to stream new movie releases directly to their computers.
+Do you even remember video stores? Why would you bother when you can watch
+a movie on the go on your phone?
+
+Social networks are almost a synonym with the modern Internet. Since its creation,
+the Internet had been used as a means of social interaction. Chat rooms were one
+of the first venues for live communication among people that broke the barriers of
+space much like the telephone when it was created. The difference was that chat
+rooms created another form of interaction, where complete strangers would
+randomly find each other to exchange ideas of all kinds.
+
+The social format became widely known with the popularity of MySpace, which still
+exists, although it seems to be slowly disappearing into obscurity. MySpace at its
+peak in 2006 had 100 million avid users, and showed the world that there was a
+huge interest in the use of the Internet as a live social medium.
+
+Facebook is currently the leader of that trend, with over 500 million users. Businesses
+have also discovered the importance of reaching potential customers through
+social networks and are investing heavily in them. It is rare to find a business
+nowadays that doesn't have at least a Facebook page and a Twitter account.
+
+The need to be constantly connected has also prompted a lot of people and
+businesses to set up Wi-Fi connections. Wi-Fi is based on IEEE 802.11 standards that
+allow devices to connect to each other without the need for cables. One can easily
+set up a wireless network with an affordable wireless router connected to a wired
+one or directly to the broadband cable. That creates a lot of flexibility, particularly
+for those who wish to use laptops around the house and businesses who want to be
+able to set up computers without the need to worry about pulling cables all over the
+office. Wi-Fi can also be found in many business and public spaces as a way of
+attracting web users.
+
+In the past few years, the need to be constantly connected has meant that new
+ways of being online are constantly being researched. Mobile Internet has, in the
+past few years become so popular that a large number of businesses are creating
+websites and apps specifically for mobile devices. Phones, which used to be a
+device that allowed you to make phone calls and maybe send some text messages,
+have become miniature computers that not only give you access to the web, but
+also allow you to create documents, manage your finances, record video, take
+picture and share those online.
+
+Blackberries, iPhones, iPad and more recently the invasion of Android and Android
+tablets in the market has meant that Smart Phones will become an even larger part
+of Internet connectivity. Unlike land-based connections, mobile devices rely greatly
+on the use of Satellites to connect users to the Internet.
+
+The changes in communications that can be attributed to the Internet are almost
+immeasurable. Even from its humble beginnings as a limited communication portal
+between researchers and scholars, the fact that the information could be shared so
+freely was revolutionary. The web, as we so commonly call it, is exactly that:
+something that connects all these points, and with that, all of us, and allows us to
+influence each other and share ideas in ways that were impossible before.
+As a child, when we were curious about something; we dreamed that there was a
+magic box….one that could answer any questions asked. That magic box exists
+now. Its name is Google.
+
+The implications are immense. Ideas can be shared among people from all over the
+world in real time. Newspapers have become "the old way of doing things" since
+you can find information on events within seconds of their happening. Emails have
+made letters a special thing one treasures instead of the only way of
+communicating with one another without the use of a phone.
+
+Websites have helped spread information that was previously only available in
+books, which had to be shipped to places, and stored, and which only allowed that
+information to be shared with the very few who had access to them in a library or
+who had the funds to purchase them. Most websites are available for free to millions
+of users at any given time.Businesses, hospitals and banks stopped relying on paper documents and started
+"digitizing" all their files. Information can now be accessed via databases, which
+means less is done by memory and subject to mistakes, or accidental destruction
+and more people have access to the information quicker.
+
+Whole infrastructures were developed so they could accommodate these changes.
+Buildings have been built to accommodate servers, cables and satellites had to be
+changed to better distribute the information, Internet based companies have
+appeared that function entirely virtually, without the need for a brick and mortar
+office. The measure of the development and potentials of many countries is being
+measured side by side with the level and know-how of its technology, because
+geographic barriers mean very little when the web is concerned. Basically, you can
+reach someone across the world the same way you can chat with a friend in your
+neighbourhood.
+
+The last decade has been the most transformative in generations. A whole new way
+of living has been created by the Internet, and it has started maturing in the past
+years and evolving into a new norm. Some of the apparent changes, such as email
+instead of mail and looking for websites instead of phone numbers in the yellow
+pages were just the tip of the iceberg.
+
+The media is changing its format to an almost entirely digital format. Magazines and
+newspapers have been morphing into websites and blogs, videos are becoming
+streaming media, and even TV has been slowly becoming more like the web.
+Options like rewinding live TV, recording it, scheduling it from a distance, streaming
+"On Demand" movies, and many other changes are a way of duplicating the users
+experience online while they watch TV. Google TV, for example, is a gateway to a
+fully web based TV watching experience.
+
+Home phones are being slowly replaced by smart phones, which are again, an
+extension of the web into our everyday lives. Even the home and business phones
+themselves can now be web driven with VOIP services. Many applications and
+documents are now being stored in web clouds which mean that soon, most of our
+information will only exist in pixel form.
+
+We have in the short span of 10 years, changed from a mostly analog world, to a
+world controlled by virtual information and one can't help but wonder what the next
+10 years will bring.
+
+What the Internet has brought us is a whole new way of interacting with each other
+and with the world around us. We have more access to information than any other
+generation before us, but not all of the information is constructive and not all of the
+changes good. Many have failed to adapt to our new virtualized environment, and
+have been struggling to catch up with a world that seems to be changing quicker
+than a lot of people can catch up with it, and those who had to explain to your
+grandparents how to use Facebook can testify to it.
+
+The other group that has been left behind by the technological revolution has been
+those in poverty or who live in countries with little Internet access. It is estimated that
+approximately 75% of people worldwide still don't have access to the Internet, and
+with the needs to the world revolving around some of those services, the distance
+between those who can and those who cannot is bound to become even greater.
+
+For those of us who are privileged to have access to every new gadget and to
+every new advancement, the world has become a great big experiment. We read
+our books on Kindles, find directions via GPS on our phones, talk to our friends on
+Facebook and post Twitter updates about our new Foursquare mayorships. We play
+fantasy games with people around the world and carry thousands of songs on
+players smaller than a deck of cards.
